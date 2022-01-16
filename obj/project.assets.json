@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Intel\\Desktop\\первый вебинар\\первый вебинар\\первый вебинар.csproj",
-      "projectName": "первый вебинар",
-      "projectPath": "C:\\Users\\Intel\\Desktop\\первый вебинар\\первый вебинар\\первый вебинар.csproj",
+      "projectUniqueName": "C:\\Users\\Intel\\Desktop\\первый вебинар\\Ex1\\Ex1.csproj",
+      "projectName": "Ex1",
+      "projectPath": "C:\\Users\\Intel\\Desktop\\первый вебинар\\Ex1\\Ex1.csproj",
       "packagesPath": "C:\\Users\\Intel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Intel\\Desktop\\первый вебинар\\первый вебинар\\obj\\",
+      "outputPath": "C:\\Users\\Intel\\Desktop\\первый вебинар\\Ex1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Intel\\AppData\\Roaming\\NuGet\\NuGet.Config",
